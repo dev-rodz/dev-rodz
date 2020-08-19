@@ -1,13 +1,12 @@
 # Rodrigo Alves
 
-## Hi there 👋🏻
+Hi there 👋🏻
 
+#### I am currently doing a bachelor's degree in information systems
 
-### I am currently doing a bachelor's degree in information systems
+#### My favorite tools: ReactJS, React Native and NodeJS
 
-### My favorite tools: ReactJS, React Native and NodeJS
-
-### Always learning.
+#### Always learning.
 
 
 

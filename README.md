@@ -4,7 +4,7 @@ Hi there 👋🏻
 
 #### I am currently doing a bachelor's degree in information systems
 
-#### My favorite tools: ReactJS, React Native and NodeJS
+#### Currently studying: ReactJS, React Native and NodeJS
 
 #### Always learning
 

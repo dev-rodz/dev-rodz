@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hello my name is Rodrigo 👋, I am <b>FullStack Developer</b>. I'm a student at <b>Bootcamp GoStack at Rocketseat</b>, where I learned in practice on the most modern technologies of web and mobile development.<br>
+  Hello my name is Rodrigo 👋, I am <b>FullStack Developer</b>. Currently focused on modern javascript technologies, namely: React and Node.js.<br>
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>ReactJS, React Native, NodeJS and TypeScript</strong>
+  🚀 Skills: <strong>React, Node.js and TypeScript</strong>
 </p>
 
 <p align="left">
